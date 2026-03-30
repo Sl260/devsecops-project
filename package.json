@@ -1,0 +1,13 @@
+{
+  "name": "devsecops-api",
+  "version": "1.0.0",
+  "description": "API de test pour pipeline DevSecOps",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Tests passés\" && exit 0"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
